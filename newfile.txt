@@ -1,2 +1,2 @@
 init main
-dang o main
+dang o branch new

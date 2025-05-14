@@ -1,2 +1,3 @@
 dfafa
 init
+dang o main
